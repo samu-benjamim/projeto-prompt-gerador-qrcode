@@ -34,6 +34,7 @@ Uma aplicação **Node.js** em linha de comando que permite:
 │       └── permitted-characters.js # Configuração dos caracteres permitidos
 ├── index.js                     # Arquivo principal
 ├── .env                         # Configurações do gerador de senhas
+├── package.json                 # Dependências e scripts
 └── README.md
 ```
 
